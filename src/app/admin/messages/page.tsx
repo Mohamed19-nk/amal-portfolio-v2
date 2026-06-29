@@ -83,7 +83,7 @@ export default function AdminMessages() {
         const raw = d.data() as Message;
 
         return {
-          id: d.id,
+          docId: d.id,
           ...raw,
           spam: detectSpam(raw.message, raw.email),
         };
