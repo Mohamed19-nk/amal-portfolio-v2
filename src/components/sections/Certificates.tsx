@@ -8,17 +8,17 @@ link: "/certificates/plp-certificate.pdf",
 },
 
 {
-title: "AI Fundamentals",
+title: "Software Engineering Essentials",
 issuer: "Coursera",
 type: "link",
-link: "https://coursera.org/",
+link: "https://www.credly.com/badges/5bb420a6-b975-4157-a602-b210945eb297/public_url",
 },
 
 {
-title: "Prompt Engineering",
+title: "Introduction to Software Engineering",
 issuer: "Coursera",
 type: "link",
-link: "https://coursera.org/",
+link: "https://coursera.org/share/c07207b70f6e80f64def8657e988a628",
 },
 
 {
